@@ -1,5 +1,0 @@
-root@5eb299481eae:~/alx-zero_day/0x03-git/bash# ls
-cat alx #!/bin/bash
-cd .
-clear
-git add . 
